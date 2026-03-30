@@ -1,7 +1,7 @@
-Hi, I'm Saamrudhi Karnik! 👋
 
+🎓 About Me
 
-🎓 About MeName: Saamrudhi Karnik 
+Name: Saamrudhi Karnik 
 
 Branch: B.Tech - Computer Science and Engineering (Cyber Security and Digital Forensics)
 
